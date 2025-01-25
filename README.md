@@ -6,7 +6,7 @@ This project implements a product management API using FastAPI, SQLAlchemy, and 
 ## Setup
 
 ### Prerequisites
-- Python 3.11 or higher
+- Python 3.11 
 - FastAPI, Uvicorn, and SQLAlchemy
 
 ### Installation
