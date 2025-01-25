@@ -7,7 +7,7 @@ import mysql.connector
 import os
 
 # MySQL connection string
-DATABASE_URL = "mysql+mysqlconnector://root:@localhost/flask"
+DATABASE_URL = "mysql+mysqlconnector://root:@localhost/dbname"
 
 # Create a SQLAlchemy engine
 engine = create_engine(DATABASE_URL, echo=True)
